@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dr. Thiha Naung.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning python. Just beginning...
+- 👋 Hi, I’m Dr. Thiha Ng.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Python and R. Just beginning...
 
 <!---
 thihanaung-thnn/thihanaung-thnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
